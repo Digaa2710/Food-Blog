@@ -1,9 +1,30 @@
 
 
 .img-bg {
-    background: url('https://fatdaddios.com/wp-content/uploads/2022/03/Bread-slices-scaled.jpg') center center / cover;
+    background: url('https://img.freepik.com/premium-photo/fast-food-concept-set-hamburgers-cheeseburgers-french-fries-vegetables-sauces-dark-background-so-many-delicious-fast-food-items-top-view-table-ai-generated_538213-2442.jpg') center center / cover;
     height: 50vh;
     width: 100%;
     margin: 1.5rem;
   
+}
+.text-design{
+    position:relative;
+    width:450px;
+    font-family: Arial, Helvetica, sans-serif;
+    left:0px;
+    top:200px;
+    background-color: white;
+    padding: 5px;
+    font-style: italic;
+}
+.text-design2{
+    position: relative;
+    width:40vw;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    left:0px;
+    top:200px;
+    background-color: black;
+    color:white;
+    padding:5px;
+    font-style: italic;
 }

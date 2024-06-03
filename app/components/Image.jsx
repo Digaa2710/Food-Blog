@@ -3,7 +3,12 @@ import './Image.css'
 function Image() {
   return (
     <div className='p-4 img-bg'>
-        {/* bootstrap hain tailwind nhi ik baba, custom class hai */}
+        <div class='text-design'>
+            <h1 >Share your food sense</h1>
+        </div>
+        <div class='text-design2'>
+            <h2>Know about your go to comfort food </h2>
+        </div>
     </div>
   )
 }
