@@ -1,0 +1,12 @@
+/* .size{
+    width: 100%; /* Set the container's width to half of its parent's width */
+    /* min-height: 50%; */
+/* } */
+
+.img-bg {
+    background: url('https://fatdaddios.com/wp-content/uploads/2022/03/Bread-slices-scaled.jpg') center center / cover;
+    height: 50vh;
+    width: 100%;
+    margin: 1.5rem;
+    /* Yeh background hai, isko padding nahi, margin deni padegi */
+}

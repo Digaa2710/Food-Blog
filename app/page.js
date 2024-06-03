@@ -1,10 +1,14 @@
 import React from 'react'
 
 import Sidebar from './components/Sidebar'
+import Image from './components/Image'
 function page() {
   return (
-    <div className='d-flex'>
+    <div>
+      <div className='d-flex flex-lg-row flex-column'>
       <Sidebar/>
+      <Image/>
+      </div>
     </div>
   )
 }
