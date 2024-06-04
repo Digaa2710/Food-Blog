@@ -1,5 +1,5 @@
 import React from 'react'
-
+import Line from './components/Line'
 import Sidebar from './components/Sidebar'
 import Image from './components/Image'
 import Cards from './components/Cards'
@@ -26,7 +26,7 @@ function page() {
       
       
       </div>
-      
+      <Line/>
     </div>
   )
 }
