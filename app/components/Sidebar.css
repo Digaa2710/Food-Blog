@@ -1,22 +1,15 @@
-.block{
-    @media only screen and (max-width:940px){
+@media only screen and (max-width:1000px){
+    .block1{
         width:100vw;
     }
-   
-   /* background-color: aqua; */
 }
-.block1{
-    @media only screen and (max-width:1000px){
-        width:100vw;
-    }
-   
-}
-.box{
-    @media only screen and (max-width:940px){
+@media only screen and (max-width:940px){
+    .box{
         height:40px;
         width:40px;
-        
         align-items: center;
     }
+    .block{
+        width:100vw;
+    }
 }
-
