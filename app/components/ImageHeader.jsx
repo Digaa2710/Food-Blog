@@ -1,6 +1,6 @@
 import React from 'react'
 import './Image.css'
-function Image() {
+function ImageHeader() {
   return (
     <div className='p-4 img-bg mb-4'>
         
@@ -8,4 +8,4 @@ function Image() {
   )
 }
 
-export default Image
+export default ImageHeader

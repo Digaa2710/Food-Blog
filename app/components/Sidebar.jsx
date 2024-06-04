@@ -22,21 +22,21 @@ function Sidebar() {
         <div className=' justify-content-md-end d-flex justify-content-evenly justify-content-md-evenly flex-lg-column gap-lg-4 '>
         <div className='d-flex gap-2 flex-column flex-lg-row box ' >
             <BookmarkAddOutlinedIcon/>
-            <a class="nav-link" href="#" style={{ color: '#0000FF' }}>BookMark</a>
+            <a className="nav-link" href="#" style={{ color: '#0000FF' }}>BookMark</a>
         </div>
         <div className='d-flex gap-2 flex-column flex-lg-row box'>
             
             <BookIcon/>
             
-            <a class="nav-link" href="#" style={{color:'#0000FF'}}>Blog</a>
+            <a className="nav-link" href="#" style={{color:'#0000FF'}}>Blog</a>
         </div>
         <div className='d-flex gap-2 flex-column flex-lg-row box'>
             <PhoneIcon/>
-            <a class="nav-link" href="#" style={{color:'#0000FF'}}>Contact</a>
+            <a className="nav-link" href="#" style={{color:'#0000FF'}}>Contact</a>
         </div>
         <div className='d-flex gap-2 flex-column flex-lg-row box'>
             <InfoIcon/>
-            <a class="nav-link" href="#" style={{color:'#0000FF'}}>About</a>
+            <a className="nav-link" href="#" style={{color:'#0000FF'}}>About</a>
         </div>
         <div className='d-lg-flex flex-column  d-none '>
             <div>

@@ -9,7 +9,7 @@ function Cards() {
             <img src='https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQVQ4CbTzCCbc940X9udvl96GWQq6L7DusdQFJLRCkFyNfuUGQH' className='card-img'/>
             <div className='card-body'>
                 <h5 className='card-title' style={{color:'#0000FF'}}>Vikas khanna</h5>
-                <p className='card-text'>In his autobiography "Buried Seeds," Chef Vikas Khanna shares his journey from humble beginnings in Amritsar to international culinary stardom. Through tales of resilience and innovation, Khanna reveals his deep-rooted passion for Indian cuisine and his commitment to using <Link href="/About" className='text'><span style={{color:'#0000FF'}}>See more</span></Link></p>
+                <p className='card-text'>In his autobiography &quot;Buried Seeds,&quot; Chef Vikas Khanna shares his journey from humble beginnings in Amritsar to international culinary stardom. Through tales of resilience and innovation, Khanna reveals his deep-rooted passion for Indian cuisine and his commitment to using <Link href="/About" className='text'><span style={{color:'#0000FF'}}>See more</span></Link></p>
             </div>
         </div>
         <div className='card card-sm card-lg' >
@@ -30,7 +30,7 @@ function Cards() {
             <img src='https://upload.wikimedia.org/wikipedia/commons/a/a0/Dahi_puri%2C_Doi_phuchka.jpg' className='card-img'/>
             <div className='card-body'>
                 <h5 className='card-title' style={{color:'#0000FF'}}>Indian Street Food</h5>
-                <p className='card-text'>India's street food scene is incomplete without the vibrant and flavorful array of chaats. From the tangy-spicy explosion of pani puri to the creamy richness of dahi puri, these bite-sized snacks are beloved for their tantalizing mix of textures and flavors. Chaats,<Link href='/Chaat' className='text'><span style={{color:'#0000FF'}}>See more</span></Link></p>
+                <p className='card-text'>India&apos;s street food scene is incomplete without the vibrant and flavorful array of chaats. From the tangy-spicy explosion of pani puri to the creamy richness of dahi puri, these bite-sized snacks are beloved for their tantalizing mix of textures and flavors. Chaats,<Link href='/Chaat' className='text'><span style={{color:'#0000FF'}}>See more</span></Link></p>
             </div>
         </div>
     </div>

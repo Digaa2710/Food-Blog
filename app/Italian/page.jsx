@@ -12,11 +12,11 @@ function page() {
 
 Bold spices like garlic, oregano, and basil are staples in Italian kitchens, adding depth and complexity to dishes without overpowering the natural flavors of the ingredients. Traditional cooking techniques such as slow simmering, braising, and wood-fired baking are cherished for their ability to coax out the best flavors from simple ingredients.
 
-Regional variations in Italian cuisine reflect the country's diverse landscapes and culinary traditions. From the seafood-rich dishes of coastal regions like Liguria and Sicily to the hearty, meat-based recipes of central and northern Italy, each area boasts its own unique specialties and culinary heritage.
+Regional variations in Italian cuisine reflect the country&apos;s diverse landscapes and culinary traditions. From the seafood-rich dishes of coastal regions like Liguria and Sicily to the hearty, meat-based recipes of central and northern Italy, each area boasts its own unique specialties and culinary heritage.
 
 Italian cuisine also places a strong emphasis on the importance of communal dining and sharing meals with loved ones. Whether gathered around a table for a leisurely Sunday lunch or enjoying a quick bite at a bustling trattoria, the joy of food and fellowship is central to the Italian dining experience.
 
-Overall, Italian cuisine is a true reflection of the country's cultural richness, history, and passion for good food. It's a culinary journey that invites diners to savor the flavors of Italy, one delicious dish at a time</p>
+Overall, Italian cuisine is a true reflection of the country&apos;s cultural richness, history, and passion for good food. It&apos;s a culinary journey that invites diners to savor the flavors of Italy, one delicious dish at a time</p>
         </div>
     </div>
   )
