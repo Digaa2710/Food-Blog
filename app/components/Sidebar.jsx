@@ -39,6 +39,7 @@ function Sidebar() {
             <a className="nav-link" href="#" style={{color:'#0000FF'}}>About</a>
         </div>
         <div className='d-lg-flex flex-column  d-none '>
+           
             <div>
                 <p>Latest Post</p>
                 <p>for more info</p>
@@ -46,6 +47,7 @@ function Sidebar() {
                 <p>Number one bloging </p>
                 <p style={{color:'#0000FF'}}>Website in India</p>
             </div>
+            
         </div>
         </div>
         </div>
