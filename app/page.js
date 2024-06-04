@@ -5,12 +5,13 @@ import Image from './components/Image'
 import Cards from './components/Cards'
 import Others from './components/Others'
 
+
 function page() {
   return (
-    <div>
+    <div >
       <div className='d-flex flex-lg-row flex-column'>
       <Sidebar/>
-      <div className='d-flex flex-column w-100'>
+      <div className='d-flex flex-column w-100 ps-lg-4 '>
           <Image/>
           <Others/>
           <div className='m-3'>

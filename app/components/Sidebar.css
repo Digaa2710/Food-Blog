@@ -19,3 +19,9 @@
         align-items: center;
     }
 }
+.extra-content{
+    @media only screen and (max-width:940px){
+        display: none;;
+
+    }
+}
